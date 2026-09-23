@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-31T22:23:07 IST" name="Default suite" finished-at="2026-08-31T22:23:18 IST" duration-ms="10223">
+    <groups>
+    </groups>
+    <test started-at="2026-08-31T22:23:07 IST" name="Default test" finished-at="2026-08-31T22:23:18 IST" duration-ms="10223">
+      <class name="com.stad.testautomation.tests.LoginTestUsingExcel">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.stad.testautomation.tests.LoginTestUsingExcel@694abbdc]" started-at="2026-08-31T22:23:08 IST" name="setup" finished-at="2026-08-31T22:23:13 IST" duration-ms="5003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTestUsingExcel()[pri:0, instance:com.stad.testautomation.tests.LoginTestUsingExcel@694abbdc]" started-at="2026-08-31T22:23:13 IST" name="loginTestUsingExcel" finished-at="2026-08-31T22:23:17 IST" duration-ms="4940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestUsingExcel -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stad.testautomation.tests.LoginTestUsingExcel@694abbdc]" started-at="2026-08-31T22:23:17 IST" name="tearDown" finished-at="2026-08-31T22:23:18 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stad.testautomation.tests.LoginTestUsingExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
